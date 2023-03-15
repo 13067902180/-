@@ -1,0 +1,15 @@
+.chart .el-radio .el-radio__input.is-checked+.el-radio__label {
+    color: rgb(223, 192, 38);
+}
+.chart .el-radio__input.is-checked .el-radio__inner {
+    border-color: rgb(223, 192, 38);
+    background: none;
+}
+.chart .el-radio__inner::after {
+    width: 6px;
+    height: 6px;
+    background-color: rgb(223, 192, 38);
+}
+.chart .el-radio__label{
+    color: #fff;
+}

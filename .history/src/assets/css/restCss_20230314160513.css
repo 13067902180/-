@@ -1,0 +1,3 @@
+.chart .el-radio is-checked .el-radio__input.is-checked+.el-radio__label {
+    color: rgb(223, 192, 38);
+}
